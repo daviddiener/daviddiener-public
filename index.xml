@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>David Diener</title>
+      <link>https://www.daviddiener.de</link>
+      <description>Last 10 notes on David Diener</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Nomad Devlog 0.4.0: Landing Phase</title>
+    <link>https://www.daviddiener.de/Blog/Nomad-0.4.0</link>
+    <guid>https://www.daviddiener.de/Blog/Nomad-0.4.0</guid>
+    <description><![CDATA[ The latest release 0.4.0 brings some eye candy to Nomad. I added a nice animation for the ships landing phase and a nice cloud shader. ]]></description>
+    <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Nomad Devlog 0.3.0: Roguelite</title>
+    <link>https://www.daviddiener.de/Blog/Nomad-0.3.0</link>
+    <guid>https://www.daviddiener.de/Blog/Nomad-0.3.0</guid>
+    <description><![CDATA[  I just published Nomad v0.3.0 over on itch.io! Following up on the my last post Nomad 0.2.0, where I talked about procedural generation and the new inserter arms I made a major project shift where we overhauled the whole project. ]]></description>
+    <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Nomad Devlog 0.2.0: Inserters</title>
+    <link>https://www.daviddiener.de/Blog/Nomad-0.2.0</link>
+    <guid>https://www.daviddiener.de/Blog/Nomad-0.2.0</guid>
+    <description><![CDATA[  I just published Nordustry v0.2.0 over on itch.io! Following up on the core DOD architecture from my last post Nomad 0.1.0, it was time to move on to my next milestone. ]]></description>
+    <pubDate>Sat, 04 Jul 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Nomad Devlog 0.1.0: Hello World!</title>
+    <link>https://www.daviddiener.de/Blog/Nomad-0.1.0</link>
+    <guid>https://www.daviddiener.de/Blog/Nomad-0.1.0</guid>
+    <description><![CDATA[  Nordustry is a real-time factory simulation game I’m building in Godot. ]]></description>
+    <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Nomad</title>
+    <link>https://www.daviddiener.de/Projects/Nomad</link>
+    <guid>https://www.daviddiener.de/Projects/Nomad</guid>
+    <description><![CDATA[ Nomad is a Roguelite Factory Defense game set in a Sci-Fi universe. You command the Nomad - a space ship with a factory inside. ]]></description>
+    <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>How to Run Agents on the Go with TMUX and Tailscale</title>
+    <link>https://www.daviddiener.de/Blog/2026-06-01-How-to-run-Agents-on-the-go-with-TMUX-and-Tailscale</link>
+    <guid>https://www.daviddiener.de/Blog/2026-06-01-How-to-run-Agents-on-the-go-with-TMUX-and-Tailscale</guid>
+    <description><![CDATA[ I recently came across happy, a tool that lets you interact with AI agents via your phone. ]]></description>
+    <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Using ECS for Swarm Simulation</title>
+    <link>https://www.daviddiener.de/Blog/2026-04-19-Using-ECS-for-Swarm-Simulation</link>
+    <guid>https://www.daviddiener.de/Blog/2026-04-19-Using-ECS-for-Swarm-Simulation</guid>
+    <description><![CDATA[ Back in 2023 I had the idea to create an Auraluxinspired video game based on the Bevygame engine. ]]></description>
+    <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Thoughts about Windows, Linux and WSL2</title>
+    <link>https://www.daviddiener.de/Blog/2026-03-23-Thoughts-about-Windows,-Linux-and-WSL2</link>
+    <guid>https://www.daviddiener.de/Blog/2026-03-23-Thoughts-about-Windows,-Linux-and-WSL2</guid>
+    <description><![CDATA[ After years of switching between dual boots, Linux only and Windows only, my development environment has (temporarily?) settled into a middle ground that works for both my professional and personal projects. ]]></description>
+    <pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>My Agentic Engineering Workflow In Early 2026</title>
+    <link>https://www.daviddiener.de/Blog/2026-03-20-My-Agentic-Engineering-Workflow-In-Early-2026</link>
+    <guid>https://www.daviddiener.de/Blog/2026-03-20-My-Agentic-Engineering-Workflow-In-Early-2026</guid>
+    <description><![CDATA[ There is a big difference between letting an AI agent write code for you (vibe coding) vs. ]]></description>
+    <pubDate>Fri, 20 Mar 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Automating API Documentation for RESTful Backends</title>
+    <link>https://www.daviddiener.de/Blog/2024-03-30-Automating-API-Docs</link>
+    <guid>https://www.daviddiener.de/Blog/2024-03-30-Automating-API-Docs</guid>
+    <description><![CDATA[  As Odyssey grew, I quickly realized that keeping API documentation up to date by hand is not gonna be possible for a 1 person team like me. ]]></description>
+    <pubDate>Sat, 30 Mar 2024 00:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
